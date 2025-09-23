@@ -25,13 +25,16 @@ This notebook walks you through the complete EDA process using the famous Titani
 - Building new features from existing data
 - Transforming categorical variables
 
+## Getting Started
 
-## Key Insights You'll Discover
+```bash
+# Clone this repository
 
-- How gender, class, and age affected Titanic survival rates
-- Why family size had an optimal range for survival
-- Which passengers were most likely to survive and why
-- How to transform messy data into analysis-ready features
+# Install required packages
+pip install pandas numpy matplotlib seaborn
+
+# Open the notebook and start exploring!
+```
 
 ## Why EDA Matters
 
