@@ -43,3 +43,6 @@ Understanding your data is like *having a roadmap before starting a journey*. Pr
 - More appropriate model selection
 - Reliable and trustworthy results
 - Clear insights you can actually explain
+
+## Contributing
+Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
